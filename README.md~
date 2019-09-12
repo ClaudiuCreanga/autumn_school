@@ -2,7 +2,7 @@
 
 This repository was created in order to provide didactical material for the **Introduction to Machine Learning for biomedical data analysis in Python** course, taught by Dr. Adriano Barbosa-Silva in various Data Science for Health courses.
 
-This repository uses resources collected from diverse sources in the internet. Credits should be given for the authors listed below, from whom I obtained the original for free code at Kaggle for teaching purposes. They deserve full credits for their great work!
+This repository uses resources collected from diverse sources in the internet. Credits should be given for the authors listed below, from whom I obtained the original material for free code at Kaggle for teaching purposes. They deserve full credits for their great work!
 
 1) Comparing Classification Models: sklearn iris data, [**Nilimesh Halder**](https://www.kaggle.com/hammadzahidali/comparing-classification-models-sklearn-iris-data), Accessed Sep. 2019.
 
