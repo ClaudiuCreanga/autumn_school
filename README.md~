@@ -11,4 +11,4 @@ This repository uses resources collected from diverse sources in the internet. C
 3) Heart diseases predictive model (beginners), [**Rishabh Pande**](https://www.kaggle.com/rishpande/heart-diseases-predictive-model-beginners), Accessed Sep. 2019.
 
 To launch the interactive version of such notebooks on-the-fly using the servoce myBinder, click on the banner bellow:
-[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrianobioinfo/autumn_school/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrianobioinfo/autumn_school/master)
